@@ -41,5 +41,27 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Zizou Slab-Black Italic.otf</string>
+		<string>Zizou Slab-Black.otf</string>
+		<string>Zizou Slab-Bold Italic.otf</string>
+		<string>Zizou Slab-Bold.otf</string>
+		<string>Zizou Slab-Light Italic.otf</string>
+		<string>Zizou Slab-Light.otf</string>
+		<string>Zizou Slab-Medium Italic.otf</string>
+		<string>Zizou Slab-Medium.otf</string>
+		<string>Zizou Slab-Regular Italic.otf</string>
+		<string>Zizou Slab-Regular.otf</string>
+		<string>Zizou Slab-Thin Italic.otf</string>
+		<string>Zizou Slab-Thin.otf</string>
+		<string>SolanoGothicMVB-Lt.otf</string>
+		<string>SolanoGothicMVBProBd.otf</string>
+		<string>SolanoGothicMVBStdBd.otf</string>
+		<string>SolanoGothicMVBStdBdCap.otf</string>
+		<string>HelveNeuRom.otf</string>
+	</array>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
 </dict>
 </plist>

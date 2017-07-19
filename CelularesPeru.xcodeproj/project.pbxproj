@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08AAD994943290C631ED92C8 /* Pods_CelularesPeru.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7E2CD02A1B8362DD73CE437 /* Pods_CelularesPeru.framework */; };
 		FD936D761F019A4B00122440 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD936D751F019A4B00122440 /* AppDelegate.swift */; };
 		FD936D781F019A4B00122440 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD936D771F019A4B00122440 /* ViewController.swift */; };
 		FD936D7B1F019A4B00122440 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD936D791F019A4B00122440 /* Main.storyboard */; };
@@ -14,6 +15,33 @@
 		FD936D801F019A4B00122440 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD936D7E1F019A4B00122440 /* LaunchScreen.storyboard */; };
 		FD936D8B1F019A4C00122440 /* CelularesPeruTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD936D8A1F019A4C00122440 /* CelularesPeruTests.swift */; };
 		FD936D961F019A4C00122440 /* CelularesPeruUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD936D951F019A4C00122440 /* CelularesPeruUITests.swift */; };
+		FD936DA81F022DBC00122440 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD936DA71F022DBC00122440 /* HomeViewController.swift */; };
+		FD936DB21F02331800122440 /* SolanoGothicMVB-Lt.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DAE1F02331800122440 /* SolanoGothicMVB-Lt.otf */; };
+		FD936DB31F02331800122440 /* SolanoGothicMVBProBd.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DAF1F02331800122440 /* SolanoGothicMVBProBd.otf */; };
+		FD936DB41F02331800122440 /* SolanoGothicMVBStdBd.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DB01F02331800122440 /* SolanoGothicMVBStdBd.otf */; };
+		FD936DB51F02331800122440 /* SolanoGothicMVBStdBdCap.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DB11F02331800122440 /* SolanoGothicMVBStdBdCap.otf */; };
+		FD936DC21F02332500122440 /* Zizou Slab-Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DB61F02332500122440 /* Zizou Slab-Black Italic.otf */; };
+		FD936DC31F02332500122440 /* Zizou Slab-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DB71F02332500122440 /* Zizou Slab-Black.otf */; };
+		FD936DC41F02332500122440 /* Zizou Slab-Bold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DB81F02332500122440 /* Zizou Slab-Bold Italic.otf */; };
+		FD936DC51F02332500122440 /* Zizou Slab-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DB91F02332500122440 /* Zizou Slab-Bold.otf */; };
+		FD936DC61F02332500122440 /* Zizou Slab-Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DBA1F02332500122440 /* Zizou Slab-Light Italic.otf */; };
+		FD936DC71F02332500122440 /* Zizou Slab-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DBB1F02332500122440 /* Zizou Slab-Light.otf */; };
+		FD936DC81F02332500122440 /* Zizou Slab-Medium Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DBC1F02332500122440 /* Zizou Slab-Medium Italic.otf */; };
+		FD936DC91F02332500122440 /* Zizou Slab-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DBD1F02332500122440 /* Zizou Slab-Medium.otf */; };
+		FD936DCA1F02332500122440 /* Zizou Slab-Regular Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DBE1F02332500122440 /* Zizou Slab-Regular Italic.otf */; };
+		FD936DCB1F02332500122440 /* Zizou Slab-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DBF1F02332500122440 /* Zizou Slab-Regular.otf */; };
+		FD936DCC1F02332500122440 /* Zizou Slab-Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DC01F02332500122440 /* Zizou Slab-Thin Italic.otf */; };
+		FD936DCD1F02332500122440 /* Zizou Slab-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = FD936DC11F02332500122440 /* Zizou Slab-Thin.otf */; };
+		FD936DD01F025C1000122440 /* MiAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD936DCF1F025C1000122440 /* MiAccountViewController.swift */; };
+		FD936DD31F037B9800122440 /* InicioCelulares.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD936DD21F037B9800122440 /* InicioCelulares.swift */; };
+		FDD4C61D1F12781E0009768E /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4C61C1F12781E0009768E /* LoginViewController.swift */; };
+		FDD4C6201F12799E0009768E /* BusquedaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4C61F1F12799E0009768E /* BusquedaViewController.swift */; };
+		FDD4C6221F1280F10009768E /* CelBusquedaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4C6211F1280F10009768E /* CelBusquedaViewController.swift */; };
+		FDD4C6251F1290060009768E /* CarritoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4C6241F1290060009768E /* CarritoViewController.swift */; };
+		FDD4C6271F1292A10009768E /* HomeDetalleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4C6261F1292A10009768E /* HomeDetalleViewController.swift */; };
+		FDD4C6291F1292B30009768E /* BusquedaDetallleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4C6281F1292B30009768E /* BusquedaDetallleViewController.swift */; };
+		FDD4C62C1F1337900009768E /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4C62B1F1337900009768E /* CustomTextField.swift */; };
+		FDD4C62E1F137D570009768E /* ConfirmarPagoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4C62D1F137D570009768E /* ConfirmarPagoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +62,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		30E3B93881A8F06CC4BAB2EA /* Pods-CelularesPeru.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CelularesPeru.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CelularesPeru/Pods-CelularesPeru.debug.xcconfig"; sourceTree = "<group>"; };
+		8E8A04ABD4FFCF3B41C6D9AA /* Pods-CelularesPeru.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CelularesPeru.release.xcconfig"; path = "Pods/Target Support Files/Pods-CelularesPeru/Pods-CelularesPeru.release.xcconfig"; sourceTree = "<group>"; };
+		A7E2CD02A1B8362DD73CE437 /* Pods_CelularesPeru.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CelularesPeru.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD936D721F019A4B00122440 /* CelularesPeru.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CelularesPeru.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD936D751F019A4B00122440 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FD936D771F019A4B00122440 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +78,33 @@
 		FD936D911F019A4C00122440 /* CelularesPeruUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CelularesPeruUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD936D951F019A4C00122440 /* CelularesPeruUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CelularesPeruUITests.swift; sourceTree = "<group>"; };
 		FD936D971F019A4C00122440 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD936DA71F022DBC00122440 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		FD936DAE1F02331800122440 /* SolanoGothicMVB-Lt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SolanoGothicMVB-Lt.otf"; sourceTree = "<group>"; };
+		FD936DAF1F02331800122440 /* SolanoGothicMVBProBd.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SolanoGothicMVBProBd.otf; sourceTree = "<group>"; };
+		FD936DB01F02331800122440 /* SolanoGothicMVBStdBd.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SolanoGothicMVBStdBd.otf; sourceTree = "<group>"; };
+		FD936DB11F02331800122440 /* SolanoGothicMVBStdBdCap.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SolanoGothicMVBStdBdCap.otf; sourceTree = "<group>"; };
+		FD936DB61F02332500122440 /* Zizou Slab-Black Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Black Italic.otf"; sourceTree = "<group>"; };
+		FD936DB71F02332500122440 /* Zizou Slab-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Black.otf"; sourceTree = "<group>"; };
+		FD936DB81F02332500122440 /* Zizou Slab-Bold Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Bold Italic.otf"; sourceTree = "<group>"; };
+		FD936DB91F02332500122440 /* Zizou Slab-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Bold.otf"; sourceTree = "<group>"; };
+		FD936DBA1F02332500122440 /* Zizou Slab-Light Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Light Italic.otf"; sourceTree = "<group>"; };
+		FD936DBB1F02332500122440 /* Zizou Slab-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Light.otf"; sourceTree = "<group>"; };
+		FD936DBC1F02332500122440 /* Zizou Slab-Medium Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Medium Italic.otf"; sourceTree = "<group>"; };
+		FD936DBD1F02332500122440 /* Zizou Slab-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Medium.otf"; sourceTree = "<group>"; };
+		FD936DBE1F02332500122440 /* Zizou Slab-Regular Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Regular Italic.otf"; sourceTree = "<group>"; };
+		FD936DBF1F02332500122440 /* Zizou Slab-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Regular.otf"; sourceTree = "<group>"; };
+		FD936DC01F02332500122440 /* Zizou Slab-Thin Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Thin Italic.otf"; sourceTree = "<group>"; };
+		FD936DC11F02332500122440 /* Zizou Slab-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Zizou Slab-Thin.otf"; sourceTree = "<group>"; };
+		FD936DCF1F025C1000122440 /* MiAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiAccountViewController.swift; sourceTree = "<group>"; };
+		FD936DD21F037B9800122440 /* InicioCelulares.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InicioCelulares.swift; sourceTree = "<group>"; };
+		FDD4C61C1F12781E0009768E /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		FDD4C61F1F12799E0009768E /* BusquedaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BusquedaViewController.swift; sourceTree = "<group>"; };
+		FDD4C6211F1280F10009768E /* CelBusquedaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CelBusquedaViewController.swift; sourceTree = "<group>"; };
+		FDD4C6241F1290060009768E /* CarritoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarritoViewController.swift; sourceTree = "<group>"; };
+		FDD4C6261F1292A10009768E /* HomeDetalleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeDetalleViewController.swift; sourceTree = "<group>"; };
+		FDD4C6281F1292B30009768E /* BusquedaDetallleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BusquedaDetallleViewController.swift; sourceTree = "<group>"; };
+		FDD4C62B1F1337900009768E /* CustomTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		FDD4C62D1F137D570009768E /* ConfirmarPagoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmarPagoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +112,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08AAD994943290C631ED92C8 /* Pods_CelularesPeru.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +133,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0B1807A425ED04D8931A0D9A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				30E3B93881A8F06CC4BAB2EA /* Pods-CelularesPeru.debug.xcconfig */,
+				8E8A04ABD4FFCF3B41C6D9AA /* Pods-CelularesPeru.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		AD064A635C2E830FBFD86425 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A7E2CD02A1B8362DD73CE437 /* Pods_CelularesPeru.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		FD936D691F019A4A00122440 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +157,8 @@
 				FD936D891F019A4C00122440 /* CelularesPeruTests */,
 				FD936D941F019A4C00122440 /* CelularesPeruUITests */,
 				FD936D731F019A4B00122440 /* Products */,
+				0B1807A425ED04D8931A0D9A /* Pods */,
+				AD064A635C2E830FBFD86425 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,11 +175,15 @@
 		FD936D741F019A4B00122440 /* CelularesPeru */ = {
 			isa = PBXGroup;
 			children = (
+				FD936DD11F037B3B00122440 /* Model */,
+				FD936DAA1F0232EB00122440 /* Utilities */,
+				FD936DA91F022E8100122440 /* Controladores */,
+				FD936DA61F022D2900122440 /* Service */,
+				FD936DA51F022CF100122440 /* Model */,
+				FD936DA41F0214B500122440 /* Storyboard */,
 				FD936D751F019A4B00122440 /* AppDelegate.swift */,
 				FD936D771F019A4B00122440 /* ViewController.swift */,
-				FD936D791F019A4B00122440 /* Main.storyboard */,
 				FD936D7C1F019A4B00122440 /* Assets.xcassets */,
-				FD936D7E1F019A4B00122440 /* LaunchScreen.storyboard */,
 				FD936D811F019A4B00122440 /* Info.plist */,
 			);
 			path = CelularesPeru;
@@ -125,6 +207,133 @@
 			path = CelularesPeruUITests;
 			sourceTree = "<group>";
 		};
+		FD936DA41F0214B500122440 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				FD936D7E1F019A4B00122440 /* LaunchScreen.storyboard */,
+				FD936D791F019A4B00122440 /* Main.storyboard */,
+			);
+			name = Storyboard;
+			sourceTree = "<group>";
+		};
+		FD936DA51F022CF100122440 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		FD936DA61F022D2900122440 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				FD936DA71F022DBC00122440 /* HomeViewController.swift */,
+				FDD4C6261F1292A10009768E /* HomeDetalleViewController.swift */,
+			);
+			name = Service;
+			sourceTree = "<group>";
+		};
+		FD936DA91F022E8100122440 /* Controladores */ = {
+			isa = PBXGroup;
+			children = (
+				FDD4C6231F128FF50009768E /* Carrito */,
+				FDD4C61E1F12798A0009768E /* Busqueda */,
+				FD936DCE1F025BE100122440 /* MiAccaunt */,
+			);
+			name = Controladores;
+			sourceTree = "<group>";
+		};
+		FD936DAA1F0232EB00122440 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				FDD4C62A1F1337610009768E /* TextField */,
+				FD936DAB1F0232F200122440 /* Fonts */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		FD936DAB1F0232F200122440 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FD936DAD1F02330100122440 /* ZizouLab */,
+				FD936DAC1F0232F900122440 /* Solano */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
+		FD936DAC1F0232F900122440 /* Solano */ = {
+			isa = PBXGroup;
+			children = (
+				FD936DAE1F02331800122440 /* SolanoGothicMVB-Lt.otf */,
+				FD936DAF1F02331800122440 /* SolanoGothicMVBProBd.otf */,
+				FD936DB01F02331800122440 /* SolanoGothicMVBStdBd.otf */,
+				FD936DB11F02331800122440 /* SolanoGothicMVBStdBdCap.otf */,
+			);
+			name = Solano;
+			sourceTree = "<group>";
+		};
+		FD936DAD1F02330100122440 /* ZizouLab */ = {
+			isa = PBXGroup;
+			children = (
+				FD936DB61F02332500122440 /* Zizou Slab-Black Italic.otf */,
+				FD936DB71F02332500122440 /* Zizou Slab-Black.otf */,
+				FD936DB81F02332500122440 /* Zizou Slab-Bold Italic.otf */,
+				FD936DB91F02332500122440 /* Zizou Slab-Bold.otf */,
+				FD936DBA1F02332500122440 /* Zizou Slab-Light Italic.otf */,
+				FD936DBB1F02332500122440 /* Zizou Slab-Light.otf */,
+				FD936DBC1F02332500122440 /* Zizou Slab-Medium Italic.otf */,
+				FD936DBD1F02332500122440 /* Zizou Slab-Medium.otf */,
+				FD936DBE1F02332500122440 /* Zizou Slab-Regular Italic.otf */,
+				FD936DBF1F02332500122440 /* Zizou Slab-Regular.otf */,
+				FD936DC01F02332500122440 /* Zizou Slab-Thin Italic.otf */,
+				FD936DC11F02332500122440 /* Zizou Slab-Thin.otf */,
+			);
+			name = ZizouLab;
+			sourceTree = "<group>";
+		};
+		FD936DCE1F025BE100122440 /* MiAccaunt */ = {
+			isa = PBXGroup;
+			children = (
+				FD936DCF1F025C1000122440 /* MiAccountViewController.swift */,
+				FDD4C61C1F12781E0009768E /* LoginViewController.swift */,
+			);
+			name = MiAccaunt;
+			sourceTree = "<group>";
+		};
+		FD936DD11F037B3B00122440 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FD936DD21F037B9800122440 /* InicioCelulares.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		FDD4C61E1F12798A0009768E /* Busqueda */ = {
+			isa = PBXGroup;
+			children = (
+				FDD4C61F1F12799E0009768E /* BusquedaViewController.swift */,
+				FDD4C6211F1280F10009768E /* CelBusquedaViewController.swift */,
+				FDD4C6281F1292B30009768E /* BusquedaDetallleViewController.swift */,
+			);
+			name = Busqueda;
+			sourceTree = "<group>";
+		};
+		FDD4C6231F128FF50009768E /* Carrito */ = {
+			isa = PBXGroup;
+			children = (
+				FDD4C6241F1290060009768E /* CarritoViewController.swift */,
+				FDD4C62D1F137D570009768E /* ConfirmarPagoViewController.swift */,
+			);
+			name = Carrito;
+			sourceTree = "<group>";
+		};
+		FDD4C62A1F1337610009768E /* TextField */ = {
+			isa = PBXGroup;
+			children = (
+				FDD4C62B1F1337900009768E /* CustomTextField.swift */,
+			);
+			name = TextField;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +341,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FD936D9A1F019A4C00122440 /* Build configuration list for PBXNativeTarget "CelularesPeru" */;
 			buildPhases = (
+				992471508002A99C4F71E654 /* [CP] Check Pods Manifest.lock */,
 				FD936D6E1F019A4A00122440 /* Sources */,
 				FD936D6F1F019A4A00122440 /* Frameworks */,
 				FD936D701F019A4A00122440 /* Resources */,
+				F0E943D578A0862E13482FAB /* [CP] Embed Pods Frameworks */,
+				C9F943137C2ECD258B14E547 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -193,6 +405,7 @@
 				TargetAttributes = {
 					FD936D711F019A4A00122440 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 5MEY4BJFTK;
 						ProvisioningStyle = Automatic;
 					};
 					FD936D851F019A4C00122440 = {
@@ -232,8 +445,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD936DCD1F02332500122440 /* Zizou Slab-Thin.otf in Resources */,
+				FD936DC91F02332500122440 /* Zizou Slab-Medium.otf in Resources */,
 				FD936D801F019A4B00122440 /* LaunchScreen.storyboard in Resources */,
+				FD936DB21F02331800122440 /* SolanoGothicMVB-Lt.otf in Resources */,
 				FD936D7D1F019A4B00122440 /* Assets.xcassets in Resources */,
+				FD936DB51F02331800122440 /* SolanoGothicMVBStdBdCap.otf in Resources */,
+				FD936DC61F02332500122440 /* Zizou Slab-Light Italic.otf in Resources */,
+				FD936DC41F02332500122440 /* Zizou Slab-Bold Italic.otf in Resources */,
+				FD936DCB1F02332500122440 /* Zizou Slab-Regular.otf in Resources */,
+				FD936DC51F02332500122440 /* Zizou Slab-Bold.otf in Resources */,
+				FD936DB41F02331800122440 /* SolanoGothicMVBStdBd.otf in Resources */,
+				FD936DC21F02332500122440 /* Zizou Slab-Black Italic.otf in Resources */,
+				FD936DC31F02332500122440 /* Zizou Slab-Black.otf in Resources */,
+				FD936DCC1F02332500122440 /* Zizou Slab-Thin Italic.otf in Resources */,
+				FD936DB31F02331800122440 /* SolanoGothicMVBProBd.otf in Resources */,
+				FD936DCA1F02332500122440 /* Zizou Slab-Regular Italic.otf in Resources */,
+				FD936DC71F02332500122440 /* Zizou Slab-Light.otf in Resources */,
+				FD936DC81F02332500122440 /* Zizou Slab-Medium Italic.otf in Resources */,
 				FD936D7B1F019A4B00122440 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -254,13 +483,72 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		992471508002A99C4F71E654 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C9F943137C2ECD258B14E547 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CelularesPeru/Pods-CelularesPeru-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F0E943D578A0862E13482FAB /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CelularesPeru/Pods-CelularesPeru-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		FD936D6E1F019A4A00122440 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FDD4C62E1F137D570009768E /* ConfirmarPagoViewController.swift in Sources */,
+				FDD4C61D1F12781E0009768E /* LoginViewController.swift in Sources */,
+				FDD4C6201F12799E0009768E /* BusquedaViewController.swift in Sources */,
 				FD936D781F019A4B00122440 /* ViewController.swift in Sources */,
+				FD936DD31F037B9800122440 /* InicioCelulares.swift in Sources */,
 				FD936D761F019A4B00122440 /* AppDelegate.swift in Sources */,
+				FD936DD01F025C1000122440 /* MiAccountViewController.swift in Sources */,
+				FD936DA81F022DBC00122440 /* HomeViewController.swift in Sources */,
+				FDD4C6291F1292B30009768E /* BusquedaDetallleViewController.swift in Sources */,
+				FDD4C62C1F1337900009768E /* CustomTextField.swift in Sources */,
+				FDD4C6251F1290060009768E /* CarritoViewController.swift in Sources */,
+				FDD4C6221F1280F10009768E /* CelBusquedaViewController.swift in Sources */,
+				FDD4C6271F1292A10009768E /* HomeDetalleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,11 +700,14 @@
 		};
 		FD936D9B1F019A4C00122440 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 30E3B93881A8F06CC4BAB2EA /* Pods-CelularesPeru.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5MEY4BJFTK;
 				INFOPLIST_FILE = CelularesPeru/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Celulares.peru.arqui.CelularesPeru;
+				PRODUCT_BUNDLE_IDENTIFIER = Celularesperu.arqui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -424,11 +715,14 @@
 		};
 		FD936D9C1F019A4C00122440 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8E8A04ABD4FFCF3B41C6D9AA /* Pods-CelularesPeru.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 5MEY4BJFTK;
 				INFOPLIST_FILE = CelularesPeru/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Celulares.peru.arqui.CelularesPeru;
+				PRODUCT_BUNDLE_IDENTIFIER = Celularesperu.arqui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -507,6 +801,7 @@
 				FD936D9C1F019A4C00122440 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD936D9D1F019A4C00122440 /* Build configuration list for PBXNativeTarget "CelularesPeruTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +810,7 @@
 				FD936D9F1F019A4C00122440 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD936DA01F019A4C00122440 /* Build configuration list for PBXNativeTarget "CelularesPeruUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +819,7 @@
 				FD936DA21F019A4C00122440 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
